@@ -1,0 +1,1 @@
+<?php echo "Arquivo gerado para segunda entrega do projeto" ?>
